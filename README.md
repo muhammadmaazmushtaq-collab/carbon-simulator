@@ -3,7 +3,7 @@
 A Windows-based desktop application developed in C# that calculates and simulates carbon footprints. This project was built to practically implement core **Object-Oriented Programming (OOP)** principles, utilizing modular class structures, encapsulation, and clean UI design.
 
 ## 📸 Project Interface (UI)
-*(Yahan apne project ki UI ki 1-2 screenshots add karein)*
+*(Yahan apne project ki UI ki 1-2 screenshots drag & drop karein)*
 
 > **Note for visitor:** Since this is a C# desktop application, a live web demo is not available. Please view the screenshots above or run the project locally.
 
@@ -18,6 +18,9 @@ A Windows-based desktop application developed in C# that calculates and simulate
 * **Framework:** .NET (Windows Forms)
 * **Core Concepts:** Object-Oriented Programming (OOP), File Handling
 * **IDE:** Microsoft Visual Studio
+
+## 📄 Project Documentation
+For a detailed explanation of the Object-Oriented principles, class structures, and logic used in this simulator, please review the [OOP Project Submission Report.pdf](OOP%20Project%20Submission%20Report.pdf) included in this repository.
 
 ## ⚙️ How to Run Locally
 If you want to test this application on your local machine, follow these steps:
